@@ -1,0 +1,6 @@
+código,apellidos,nombres,sexo,dirección,lugar,motivo,médico,fecha
+1/cuervo quintana/santiago/Masculino/gaitan/Hospital/asma/david murcia/25-03-2021
+2/dg/sd/Femenino/re/Centro de salud/mal de ojo/er/15-8-1958
+3/ño/lo/Masculino/fer/Clinica/er/sd/18-9-2021
+4/cuervo quintana/santiago/Masculino/gaitan/Hospital/fr/david murcia/28-01-2021
+5/fernandez/mario/Masculino/gr/Hospital/urgencias/camilo/18-9-2018
